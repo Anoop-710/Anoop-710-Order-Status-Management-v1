@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 20px auto;
+    width: 500px;
+}
+
+.order-status-check{
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #eee;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.order-status-block{
+    width: 100%;
+    margin: 15px auto;
+    pointer-events: none;
+    
+}
+
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
